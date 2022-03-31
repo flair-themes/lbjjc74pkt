@@ -1,0 +1,5 @@
+@media (min-width: 1261px) {
+    .stretch .heroCarousel {
+        min-height:550px!important;
+    }
+}
